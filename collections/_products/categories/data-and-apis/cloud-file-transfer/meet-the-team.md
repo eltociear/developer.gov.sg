@@ -32,6 +32,16 @@ bios:
     img_src: christabel_png.png
     linkedin_url: https://sg.linkedin.com/in/christabelpng
 
+  - name: Christabel Png
+    title: Product Designer
+    img_src: christabel_png.png
+    linkedin_url: https://sg.linkedin.com/in/christabelpng
+    
+  - name: Christabel Png
+    title: Product Designer
+    img_src: christabel_png.png
+    linkedin_url: https://sg.linkedin.com/in/christabelpng
+    
 ---
 
 ### Meet the team!
