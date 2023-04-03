@@ -7,10 +7,10 @@ _data: single-level-nav
 single_level_nav: true
 bios:
   
-  - name: Arshad Samad
-    title: Product Manager
+  - name: Alvin Ng
+    title: Senior Software Engineer
     img_src: arshad-samad.png
-    linkedin_url: https://www.linkedin.com/in/arshad-ali-084ba157/
+    linkedin_url: https://www.linkedin.com/in/alvin-huang/
     
   - name: Christabel Png
     title: Product Designer
