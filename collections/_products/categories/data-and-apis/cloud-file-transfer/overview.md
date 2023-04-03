@@ -18,7 +18,7 @@ sgts_title: Cloud File Transfer
 description: CFT is an API-driven Managed File Transfer service that enables agencies to conduct secure and compliant cross-zone file transfer
 ---
 
-![Cloud File Transfer header banner](/assets/img/CFT-HeaderBanner-v1.png)
+![Cloud File Transfer header banner](/assets/img/CFT-NewHeaderBanner.png)
 
 Cloud File Transfer (CFT) is a Service Layer product in the [Singapore Government Tech Stack (SGTS)](/singapore-government-tech-stack/overview/){:target="_blank"} that offers a centralised, secure, cross-zone, and fully managed file transfer service. Hosted on the [Government on Commercial Cloud (GCC)](/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html){:target="_blank"}, it enables public officers to automate file exchanges with the whole-of-government (WOG) network, business partners, and vendors across the internet and intranet. 
 
