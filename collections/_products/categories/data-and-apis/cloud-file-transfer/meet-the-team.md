@@ -32,10 +32,10 @@ bios:
     img_src: faith-ang.png
     linkedin_url: https://www.linkedin.com/in/faithang/
 
-  - name: Christabel Png
-    title: Product Designer
-    img_src: christabel_png.png
-    linkedin_url: https://sg.linkedin.com/in/christabelpng
+  - name: Jordan Lee
+    title: Software Engineering Apprentice
+    img_src: jordan-lee.png
+    linkedin_url: https://www.linkedin.com/in/jordan-lee-guanghan/
     
   - name: Christabel Png
     title: Product Designer
@@ -46,7 +46,11 @@ bios:
     title: Product Designer
     img_src: christabel_png.png
     linkedin_url: https://sg.linkedin.com/in/christabelpng
-    
+   
+  - name: Christabel Png
+    title: Product Designer
+    img_src: christabel_png.png
+    linkedin_url: https://sg.linkedin.com/in/christabelpng
 ---
 
 ### Meet the team!
