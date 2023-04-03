@@ -12,10 +12,10 @@ bios:
     img_src: alvin-ng.png
     linkedin_url: https://www.linkedin.com/in/alvin-huang/
     
-  - name: Christabel Png
-    title: Product Designer
-    img_src: christabel_png.png
-    linkedin_url: https://sg.linkedin.com/in/christabelpng
+  - name: Brian Liu
+    title: Product Manager
+    img_src: brian-liu.png
+    linkedin_url: https://www.linkedin.com/in/brian-liu-jiesheng/
     
   - name: Foo Yong Jie
     title: Senior Software Engineer
