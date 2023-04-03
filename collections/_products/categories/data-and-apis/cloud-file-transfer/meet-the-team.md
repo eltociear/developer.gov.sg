@@ -17,10 +17,10 @@ bios:
     img_src: brian-liu.png
     linkedin_url: https://www.linkedin.com/in/brian-liu-jiesheng/
     
-  - name: Foo Yong Jie
-    title: Senior Software Engineer
-    img_src: yong_jie_foo.png
-    linkedin_url: https://www.linkedin.com/in/yong-jie-foo-8192b359/
+  - name: Dion Goh
+    title: Delivery Manager
+    img_src: dion-goh.png
+    linkedin_url: 
   
   - name: Khant Sithu Zaw
     title: Senior Software Engineer
