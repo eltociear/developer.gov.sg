@@ -22,10 +22,10 @@ bios:
     img_src: dion-goh.png
     linkedin_url: 
   
-  - name: Khant Sithu Zaw
-    title: Senior Software Engineer
-    img_src: khant_sithu_zaw.png
-    linkedin_url: https://sg.linkedin.com/in/khant-sithu-zaw
+  - name: Eliot Lim
+    title: Associate Software Engineer
+    img_src: eliot-lim.png
+    linkedin_url: https://www.linkedin.com/in/eliot-lim/
 
   - name: Christabel Png
     title: Product Designer
