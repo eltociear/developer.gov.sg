@@ -27,11 +27,16 @@ bios:
     img_src: eliot-lim.png
     linkedin_url: https://www.linkedin.com/in/eliot-lim/
 
+  - name: Faith Ang
+    title: Associate Software Engineer
+    img_src: faith-ang.png
+    linkedin_url: https://www.linkedin.com/in/faithang/
+
   - name: Christabel Png
     title: Product Designer
     img_src: christabel_png.png
     linkedin_url: https://sg.linkedin.com/in/christabelpng
-
+    
   - name: Christabel Png
     title: Product Designer
     img_src: christabel_png.png
