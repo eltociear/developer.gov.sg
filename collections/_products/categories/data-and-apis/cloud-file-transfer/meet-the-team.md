@@ -37,20 +37,20 @@ bios:
     img_src: jordan-lee.png
     linkedin_url: https://www.linkedin.com/in/jordan-lee-guanghan/
     
-  - name: Christabel Png
-    title: Product Designer
-    img_src: christabel_png.png
-    linkedin_url: https://sg.linkedin.com/in/christabelpng
+  - name: Meena Kartik
+    title: Technical Writer
+    img_src: meena-kartik.png
+    linkedin_url: https://www.linkedin.com/in/meenakshi-kartik-738275b/
     
-  - name: Christabel Png
-    title: Product Designer
-    img_src: christabel_png.png
-    linkedin_url: https://sg.linkedin.com/in/christabelpng
+  - name: Thiru Natarajan
+    title: Senior DevOps Engineer
+    img_src: thiru-natarajan.png
+    linkedin_url: https://www.linkedin.com/in/thirukkumarannatarajan/
    
-  - name: Christabel Png
-    title: Product Designer
-    img_src: christabel_png.png
-    linkedin_url: https://sg.linkedin.com/in/christabelpng
+  - name: Wallace Tan
+    title: Lead DevOps Engineer
+    img_src: wallace-tan.png
+    linkedin_url: https://www.linkedin.com/in/wallace-tan-81b24022/
 ---
 
 ### Meet the team!
