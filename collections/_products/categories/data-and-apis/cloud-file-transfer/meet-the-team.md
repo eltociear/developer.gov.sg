@@ -9,7 +9,7 @@ bios:
   
   - name: Alvin Ng
     title: Senior Software Engineer
-    img_src: arshad-samad.png
+    img_src: alvin-ng.png
     linkedin_url: https://www.linkedin.com/in/alvin-huang/
     
   - name: Christabel Png
@@ -26,7 +26,12 @@ bios:
     title: Senior Software Engineer
     img_src: khant_sithu_zaw.png
     linkedin_url: https://sg.linkedin.com/in/khant-sithu-zaw
-    
+
+  - name: Christabel Png
+    title: Product Designer
+    img_src: christabel_png.png
+    linkedin_url: https://sg.linkedin.com/in/christabelpng
+
 ---
 
 ### Meet the team!
