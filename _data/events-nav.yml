@@ -373,3 +373,18 @@
     /communities/events/STACK-meetups/where-s-the-security-in-the-internet-of-things/overview.html
   items:
     - item_name: Overview
+
+# Jaga the STACK
+- name: Revenge of the Sith
+  description: >- 
+    Anakin joins forces with Obi-Wan and sets Palpatine free from the 
+    evil clutches of Count Doku. However, he falls prey to Palpatine 
+    and the Jedis' mind games and gives into temptation.
+  category: Jaga the STACK
+  location: Kashyyyk
+  event_date: 2021-03-22T18:30:00+08:00 - 2021-03-22T20:15:00+08:00
+  registration_end_date: 2020-06-22T18:30:00+08:00
+  recording_link: >-
+    /communities/events/Jaga-the-Stack/revenge-of-the-sith
+  items:
+    - item_name: Overview
