@@ -38,7 +38,7 @@
         item_count=include.item_count url_str=include.url_str%}
         <div>
           <!-- Mobile Calendar Slot -->
-          <div class="is-hidden-desktop is-flex is-centered" style="filter:contrast(0.25);">
+          <div class="is-hidden-desktop is-flex is-centered" style="filter:contrast(1);">
             <p class="is-flex margin--bottom--xs is-size-8 is-vcentered">
               <span class="sgds-icon sgds-icon-calendar is-size-4 margin--right--sm" role="img" data-cy="event-category-iconography"
                 aria-label="Event Type Icongraphy" style="-webkit-text-stroke: .1px white;"></span>
@@ -58,7 +58,7 @@
           {%- endif -%}
           <!-- Category Slot -->
           {%- if include.category -%}
-          <div class="is-size-8 is-flex margin--bottom--sm" style="filter:contrast(0.25);">
+          <div class="is-size-8 is-flex margin--bottom--sm" style="filter:contrast(1);">
             <img src="{{ include.img_src }}" class="margin--left--none margin--bottom--none margin--right--sm" data-cy="event-category-iconography"
               alt="Event Type Icongraphy" aria-label="Event Type Icongraphy" style="height: 1.5em; width: 1.5em;" />
             {{- include.category -}}

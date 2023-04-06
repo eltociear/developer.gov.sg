@@ -98,7 +98,7 @@
                     aria-label="iconName"
                     style="
                       -webkit-text-stroke: 0.5px white;
-                      filter: contrast(0.25);
+                      filter: contrast(1);
                     "
                   ></span>
                   <!-- Concat result.calendarFormat dayFormat, monthFormat and yearFormat together  -->
@@ -135,7 +135,7 @@
                   alt="Event Image"
                   :src="result.icon_path"
                   class="margin--right--sm margin--left--none margin--bottom--none margin--top--none"
-                  style="width: 1.5em; height: 1.5em; filter: contrast(0.25)"
+                  style="width: 1.5em; height: 1.5em; filter: contrast(1)"
                 />
                 <div
                   v-html="result.category"
