@@ -12,6 +12,9 @@ event_types:
   - name: STACK Meetups
     icon_name: stack_meetup
     description: Our Meetups are close-knit events for the tech community to discuss various topics of interest.
+  - name: Jaga the STACK
+    icon_name: jaga_the_stack
+    description: TODO insert Jaga the STACK description here.
 ---
 
 <h2>Events</h2>
@@ -40,7 +43,11 @@ event_types:
 
   <div class="sgds-card {{include.parentCardStyle}}">
     <div class="sgds-card-content">
-      <img src="{{img_src}}" class="margin--left--none" alt="Icons" />
+      <img 
+        src="{{img_src}}" 
+        class="margin--left--none" 
+        style="height: 40px; width: 40px;" 
+        alt="Icons" />
       {% include card-header-info.html
         name=name
         url_str=url_str

@@ -27,6 +27,9 @@
 {%- elsif current_collection.category contains "STACK Meetup"-%}
 {%- assign img_src = '/assets/img/communities/stack-meetups.svg' -%}
 {%- assign url_str = "/communities/events/stack-meetups/" | append: sub_section_slug-%}
+{%- elsif current_collection.category contains "Jaga the STACK"-%}
+{%- assign img_src = '/assets/img/communities/jaga-the-stacks.svg' -%}
+{%- assign url_str = "/communities/events/jaga-the-stack/" | append: sub_section_slug-%}
 {%- else -%}
 {%- assign img_src = '/assets/img/communities/hackathons.svg' -%}
 {%- assign url_str = "/communities/events/hackathons/" | append: sub_section_slug-%}
@@ -53,7 +56,8 @@
   data-end-date="{{ end_date }}" data-number-of-days="{{ event_number_of_days }}"
   data-registration-end-date="{{ current_collection.registration_end_date | default : start_date }}"
   data-registration-link="{{ current_collection.registration_link }}"
-  data-recording-link="{{ current_collection.recording_link }}">
+  data-recording-link="{{ current_collection.recording_link }}" 
+  data-extra-type="{{ current_collection.extra_type }}">
   <div class="has-text-centered event-status-container">
     <p class="has-text-weight-bold has-text-white event-status">DUMMY TEXT</p>
   </div>
@@ -83,10 +87,13 @@
         {{- current_collection.location -}}
       </div>
     </div>
+
+    {% if current_collection.extra_type != null or current_collection.recording_link != null %}
     <div class="row">
       <div class="col padding--right--none padding--left--none">
         <a id="event-information-link" class="sgds-button is-primary is-fullwidth is-flex-justify-c">View Event</a>
       </div>
     </div>
+    {% endif %}
   </div>
 </div>

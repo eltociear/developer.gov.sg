@@ -25,6 +25,9 @@
       {%- elsif document.category contains "STACK Meetup"-%}
         {%- assign img_src = '/assets/img/communities/stack-meetups.svg' -%}
         {%- assign url_str = "/communities/events/stack-meetups/" | append: sub_section_slug-%}
+      {%- elsif document.category contains "Jaga the STACK"-%}
+        {%- assign img_src = '/assets/img/communities/jaga-the-stacks.svg' -%}
+        {%- assign url_str = "/communities/events/jaga-the-stack/" | append: sub_section_slug-%}
       {%- else -%}
         {%- assign img_src = '/assets/img/communities/hackathons.svg' -%}
         {%- assign url_str = "/communities/events/hackathons/" | append: sub_section_slug-%}
