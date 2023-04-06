@@ -23,6 +23,7 @@ import {
         const {
           startDate,
           endDate,
+          extraType,  // values: "recording" | null
           registrationEndDate,
           registrationLink,
           recordingLink,
@@ -37,10 +38,12 @@ import {
           el
         );
 
-        // There are three cases:
+        // There are five cases:
         // 1. The event has not started yet
         // 2. The event is currently happening (Now)
-        // 3. The event has ended
+        // 3. The event has ended, but the recording is pending
+        // 4. The event has ended, and the recording has been published
+        // 5. The event has ended, but there won't be a recording
         setEventStatusAndBackgroundColor(el, status, backgroundColor);
 
         switch (true) {
@@ -69,11 +72,13 @@ import {
             }
 
             // Disable the anchor tag
-            eventInformationAnchorTag.textContent = "Pending upload";
-            eventInformationAnchorTag.style.cursor = "not-allowed";
-            eventInformationAnchorTag.style.pointerEvents = "none";
-            eventInformationAnchorTag.style.backgroundColor = "#C6C6C6";
-            break;
+            if (extraType == "recording") {
+              eventInformationAnchorTag.textContent = "Pending Upload";
+              eventInformationAnchorTag.style.cursor = "not-allowed";
+              eventInformationAnchorTag.style.pointerEvents = "none";
+              eventInformationAnchorTag.style.backgroundColor = "#C6C6C6";
+              break;
+            }
         }
       });
     }

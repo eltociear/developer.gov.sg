@@ -8,6 +8,7 @@
     {%- assign sub_section_slug = event.name | slugify -%}
     {%- assign event_date_and_timing = event.event_date | default: event.date -%}
     {%- assign url_str = page.url | remove: 'index.html' | append: sub_section_slug -%}
+    {%- assign extra_type = event.extra_type -%}
 
     {%- comment -%} Optional Fields {%- endcomment -%}
     {%- assign recordings_uploaded = event.recording_link | default: false -%}
@@ -57,6 +58,7 @@
     url_str=url_str
     event_date_and_timing=start_date
     disableItemCount=include.disableItemCount
+    extra_type=extra_type
     -%}
   </div>
   {%- endfor -%}

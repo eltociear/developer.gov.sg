@@ -1,0 +1,96 @@
+---
+title: Jaga the STACK
+layout: layout-page-sidenav
+description: TODO insert Jaga the STACK description here.
+redirect_from:
+  - /communities/events/jaga-the-stack/
+---
+
+<!-- Introduction -->
+<div>
+  <h2>Overview for Jaga the STACK</h2>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti placeat quod assumenda id optio voluptas fugit voluptatum. Veritatis autem accusamus dolore, sint repellendus consectetur architecto? Quibusdam reiciendis laborum recusandae similique.
+  </p>
+</div>
+
+<hr />
+
+<!-- Upcoming Events -->
+<div>
+  <h3>All Upcoming Jaga the STACKs</h3>
+  <div
+    id="upcoming-events-container"
+    class="card-grid-container is-fullwidth"
+  ></div>
+  <div
+    class="is-fullwidth is-flex is-flex-justify-c"
+    id="upcoming-events-view-more-button"
+  >
+    <button
+      id="view-all-upcoming-conferences-button"
+      class="sgds-button sgds-button--primary"
+      onclick="toggleEventsVisibility('upcoming-event','upcoming-events-view-more-button')"
+    >
+      View all events
+    </button>
+  </div>
+  <div
+    id="no-upcoming-events-message"
+    class="margin--top margin--bottom--xl has-text-centered"
+  >
+    Sorry, there is currently no upcoming available events.
+  </div>
+</div>
+
+<hr />
+
+<!-- Past Events -->
+<div>
+  <h3>Past Jaga the STACKs</h3>
+  <div
+    id="past-events-container"
+    class="card-grid-container is-fullwidth"
+  ></div>
+  <div
+    class="is-fullwidth is-flex is-flex-justify-c"
+    id="past-events-view-more-button"
+  >
+    <button
+      id="view-all-past-conferences-button"
+      class="sgds-button is-outlined is-secondary"
+      onclick="toggleEventsVisibility('past-event', 'past-events-view-more-button')"
+    >
+      View all events
+    </button>
+  </div>
+  <div
+    id="no-past-events-message"
+    class="margin--top margin--bottom--xl has-text-centered"
+  >
+    Sorry, there are currently no past events.
+  </div>
+</div>
+
+{%- include site-section-event-listing.html specified_category_tag="Jaga the STACK" -%}
+
+<!-- Sorting and theming script -->
+<script
+  type="text/javascript"
+  data-content-limit="2"
+  data-display-upcoming="true"
+  data-display-past="true"
+  data-id="community-overview"
+  src="/assets/bundles/community-events.bundle.js"
+></script>
+<!-- Script to hide content -->
+<script type="text/javascript">
+  function toggleEventsVisibility(attribute, buttonID) {
+    document
+      .querySelectorAll(`*[content-visibility-toggle="${attribute}"]`)
+      .forEach(node => {
+        node.style.display = "block";
+      });
+    document.getElementById(`${buttonID}`).remove();
+  }
+</script>
