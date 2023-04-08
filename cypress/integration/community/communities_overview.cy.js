@@ -26,7 +26,7 @@ describe("Community Section Overview Page Test", function () {
 
       // Check the page description
       cy.get("p").contains(
-        "We are excited to engage with the wider developer ecosystem as we continue to build and refine digital products. We believe that our goal – to build better products for the public good – can be achieved only through meaningful collaboration with the developer community."
+        "We are excited to engage with tech community as we continue to build and refine digital products for citizens, buinsesses, and the Whole-of-Government. We believe that our goal – to build Tech for Public Good – can only be achieved through meaningful collaboration and co-creation with the tech community."
       );
     });
 
