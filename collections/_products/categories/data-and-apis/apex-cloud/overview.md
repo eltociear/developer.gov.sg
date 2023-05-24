@@ -37,7 +37,7 @@ Provides template dashboards and log management through the following features.
 - The Elastic, Logstash and, Kibana (ELK) stack is offered through StackOps and this provides template dashboards for reporting. 
 - The ELK stack also comes with a comprehensive search function to support tracing and debugging
 
-Facilities collaboration between agencies and encourages discovery of WOG API offerings.
+Facilitates collaboration between agencies and encourages discovery of WOG API offerings.
 - With over 30 agencies onboard APEX Cloud, users can experience a diversity of APIs and cross-sharing 
 
 Security compliant with cross-zone support for internet and intranet environments
