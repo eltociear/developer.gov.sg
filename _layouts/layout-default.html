@@ -1,129 +1,131 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, user-scalable=yes, initial-scale=1.0"
-    />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link
-      rel="shortcut icon"
-      href="{{ site.baseurl }}/assets/img/favicon.ico"
-      type="image/x-icon"
-    />
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/bundles/main.css" />
-    <link
-      href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet"
-    />
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@100;300;400;700;900&display=swap" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
-    <!-- <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap" rel="stylesheet"> -->
 
-    <!-- <link
-      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap"
-      rel="stylesheet"
-    /> -->
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-    {% if site.git_branch == 'dev' %}
-      <script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
-    {% endif %}
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NCZ5ZHR');</script>
+  <!-- End Google Tag Manager -->
 
-    {% if site.git_branch == 'master' %}
-      <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script>
-      <!-- Facebook Pixel Code -->
-      <script>
-        !function(f,b,e,v,n,t,s)
-        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-        n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t,s)}(window,document,'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '688926055194344');
-        fbq('track', 'PageView');
-      </script>
-      <noscript>
-      <img height="1" width="1"
-        src="https://www.facebook.com/tr?id=688926055194344&ev=PageView
-        &noscript=1"/>
-      </noscript>
-      <!-- End Facebook Pixel Code -->
-    {% endif %}
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/bundles/main.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@100;300;400;700;900&display=swap">
+  <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+    integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 
-    {% if site.ga_id != nil and site.git_branch == 'master' %}
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_id }}"
-    ></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
+  {% if site.git_branch == 'dev' %}
+  <script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
+  {% endif %}
 
-      gtag("config", "{{ site.ga_id }}");
-    </script>
-    {% endif %}
+  {% if site.git_branch == 'master' %}
+  <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script>
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function (f, b, e, v, n, t, s) {
+      if (f.fbq) return; n = f.fbq = function () {
+        n.callMethod ?
+          n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+      };
+      if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+      n.queue = []; t = b.createElement(e); t.async = !0;
+      t.src = v; s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s);
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '688926055194344');
+    fbq('track', 'PageView');
+  </script>
+  <noscript>
+    <img height="1" width="1" src="https://www.facebook.com/tr?id=688926055194344&ev=PageView
+        &noscript=1" />
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+  {% endif %}
 
-    {% if site.hj_id != nil and site.git_branch == 'master' %}
-    <!-- Hotjar Tracking Code for https://www.developer.gov.sg -->
-    <script>
-      (function(h, o, t, j, a, r) {
-        h.hj =
-          h.hj ||
-          function() {
-            (h.hj.q = h.hj.q || []).push(arguments);
-          };
-        h._hjSettings = { hjid: parseInt("{{ site.hj_id }}"), hjsv: 6 };
-        a = o.getElementsByTagName("head")[0];
-        r = o.createElement("script");
-        r.async = 1;
-        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
-        a.appendChild(r);
-      })(window, document, "https://static.hotjar.com/c/hotjar-", ".js?sv=");
-    </script>
-    {% endif %}
-    {% seo %}
-  </head>
+  {% if site.ga_id != nil and site.git_branch == 'master' %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_id }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
 
-  <body>
-    <main>
-      {%- include top-nav.html -%}
-      {% if page.layout == "layout-page-sidenav" or page.layout == "layout-category-listing" %}
-      {%- unless page.single_level_nav or page.multi_level_nav -%}
-      {% if page.hide_side_nav == nil %}
-      <div class="mobile-sidenav is-hidden-desktop">
-          <button class="sgds-button is-small mobile-sidenav-toggle" type="button">
-              {%- assign collectionName = page.collection -%}
-              <span>{{ collectionName | split: "-" | join: " " | capitalizewords }}</span>
-              <span class="sgds-icon sgds-icon-chevron-down"></span>
-          </button>
-          <ul class="mobile-sidenav-menu is-hidden">
-              {% include sidenav.html %}
-          </ul>
-      </div>
-      {% endif %}
-      {% endunless %}
-      {% endif %}
-      {%- include feedback-banner.html -%}
-      <!-- Enable the line below for annoucement banner at home page -->
-      {% comment %}
-      {%- include announcement-banner.html -%}
-      {% endcomment %}
-      {{content}}
+    gtag("config", "{{ site.ga_id }}");
+  </script>
+  {% endif %}
 
-      {% include button-back-to-the-top.html %}
-    </main>
-    <div class="footer">
-      {%- include sgds-footer.html -%}
+  {% if site.hj_id != nil and site.git_branch == 'master' %}
+  <!-- Hotjar Tracking Code for https://www.developer.gov.sg -->
+  <script>
+    (function (h, o, t, j, a, r) {
+      h.hj =
+        h.hj ||
+        function () {
+          (h.hj.q = h.hj.q || []).push(arguments);
+        };
+      h._hjSettings = { hjid: parseInt("{{ site.hj_id }}"), hjsv: 6 };
+      a = o.getElementsByTagName("head")[0];
+      r = o.createElement("script");
+      r.async = 1;
+      r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+      a.appendChild(r);
+    })(window, document, "https://static.hotjar.com/c/hotjar-", ".js?sv=");
+  </script>
+  {% endif %}
+  {% seo %}
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCZ5ZHR" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <main>
+    {%- include top-nav.html -%}
+    {% if page.layout == "layout-page-sidenav" or page.layout == "layout-category-listing" %}
+    {%- unless page.single_level_nav or page.multi_level_nav -%}
+    {% if page.hide_side_nav == nil %}
+    <div class="mobile-sidenav is-hidden-desktop">
+      <button class="sgds-button is-small mobile-sidenav-toggle" type="button">
+        {%- assign collectionName = page.collection -%}
+        <span>{{ collectionName | split: "-" | join: " " | capitalizewords }}</span>
+        <span class="sgds-icon sgds-icon-chevron-down"></span>
+      </button>
+      <ul class="mobile-sidenav-menu is-hidden">
+        {% include sidenav.html %}
+      </ul>
     </div>
-    <script src="{{ site.baseurl }}/assets/bundles/main.bundle.js"></script>
-  </body>
+    {% endif %}
+    {% endunless %}
+    {% endif %}
+    {%- include feedback-banner.html -%}
+    <!-- Enable the line below for annoucement banner at home page -->
+    {% comment %}
+    {%- include announcement-banner.html -%}
+    {% endcomment %}
+    {{content}}
+
+    {% include button-back-to-the-top.html %}
+  </main>
+  <div class="footer">
+    {%- include sgds-footer.html -%}
+  </div>
+  <script src="{{ site.baseurl }}/assets/bundles/main.bundle.js"></script>
+</body>
+
 </html>
