@@ -126,6 +126,18 @@
     - item_name: Overview
 
 # Stack Events
+- name: "The Next Bound For Our Cloud Hosting Journey [Tech Infra Series]"
+  description: >-
+    This Meetup would cover key insights on the Government’s various implementations of cloud hosting including our next bound – implementing Government on Commercial Cloud + (GCC+). 
+  category: STACK Meetup
+  location: 10 Pasir Panjang Rd, Level 10
+  event_date: 2023-06-15T19:00:00+08:00 - 2023-05-11T20:30:00+08:00
+  registration_end_date: 2023-06-15T14:00:00+08:00
+  recording_link: 
+  registration_link: https://go.gov.sg/stackmeetup15Jun2023
+  items:
+    - item_name: Overview
+
 - name: "Learnings from the Government Zero Trust Architecture (GovZTA) Programme [Security Series]"
   description: >-
     This meetup will include key learnings from GovTech’s Cyber Security Group’s Government Zero Trust Architecture (GovZTA) programme to facilitate industry professionals with the development and/or improvement of their Zero Trust programmes. 
