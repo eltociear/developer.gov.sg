@@ -51,7 +51,7 @@
       image: /assets/img/photos/jason-see.png
       title: "Senior Director, Data Science & Artificial Intelligence Division (DSAID), GovTech"
       desc: "Mr Jason See is the Senior Director of the Data Science and Artificial Intelligence Division at the Government Technology Agency, focusing on driving digital transformation across the public sector using data science and AI, through consultancy projects, technology incubation, product and platform development and capability development efforts. Prior to joining GovTech, he led the start-up of a new division at MINDEF which comprised the CIO Office, the Corporate Development Directorate and the Data Science Department. He was responsible for the strategy and resource prioritisation for MINDEF digital transformation efforts, including pushing new initiatives with Agile and the commercial cloud. Jason is passionate about innovation and challenging the status quo to make a positive difference."
-      
+
 - type: Keynotes
   timeslot: 04:30 PM - 05:00 PM
   timeslot_metadata: 2023-07-18T16:30:00+08:00 - 2023-07-18T17:00:00+08:00
@@ -62,7 +62,7 @@
       image: /assets/img/photos/michael-zeller.png
       title: "Head, AI Strategy & Solutions at Temasek"
       desc: "Dr. Michael Zeller is the Head of Artificial Intelligence & Solutions at Temasek and is responsible for the investment company’s AI venture building and accelerating the deployment of AI technologies to create scalable AI products and solutions.<br><br>Dr. Michael Zeller joined Temasek in July 2020 and is a founding team and board member of Aicadium, a global tech company founded by Temasek in 2021 to provide Artificial Intelligence solutions to companies in its ecosystem and beyond. Temasek’s AI Centre of Excellence. Aicadium comprises a team of global, best-in-class AI talent seeking to empower companies to achieve better outcomes through the adoption and delivery of AI technologies and solutions. He also represents Temasek on the Board of Aicadium.<br><br>Prior to joining Temasek, Dr. Zeller was the CEO of Dynam.AI, an AI consultancy and solutions firm. He has over 20 years of experience as an entrepreneur, executive and advisor of technology-centric organisations.<br><br>Dr. Zeller led the Strategy & Innovation function at Software AG, an enterprise platform integration and IOT solutions provider. He was previously CEO and co-founder of Zementis, a leading software solutions provider for predictive analytics, which was acquired by Software AG. Before founding Zementis, Dr. Zeller was CEO at OTW Software, a company providing software engineering processes and design services, and worked in various engineering and IT roles with major aerospace corporations.<br><br>From 2013 to 2021, Dr. Zeller served as Secretary/Treasurer on the Executive Committee of ACM SIGKDD, the premier international organization for data science. With a special emphasis on applied machine learning and big data solutions, his mission as SIGKDD Executive Committee Member was to foster a strong partnership between research institutions & industry organisations as the key for the continued success of the global SIGKDD community."
- 
+
 # Panel
 - type: Panel Discussion
   timeslot: 10:45 AM - 11:30 AM
@@ -73,12 +73,12 @@
     - name: "Mr Chang Sau Sheong"
       image: /assets/img/photos/chang-sau-sheong.png
       title: "Deputy Chief Executive, Product & Engineering, GovTech"
-      desc: "Sau Sheong is the Deputy Chief Executive, Product & Engineering, for GovTech Singapore. Prior to GovTech, Sau Sheong was an Operating Partner, Digital for Temasek, a global investment company headquartered in Singapore and part of the AI Strategy and Solutions team.<br><br>Before that, he ran SPDigital, the digital business unit of SPGroup. He also headed IT, OT and digital transformation for the whole of SPGroup for more than 6 years. Sau Sheong was instrumental in changing SPGroup from a traditional utility company to a regional energy player.<br><br>In his 28 years of industry experience, he has built and led product engineering teams at PayPal, Yahoo and HP building various software products for enterprise businesses and consumers globally.<br><br>He was previously a co-founder of a software company and was involved in startups for more than 10 years. He is active and contributes to many technology communities in Singapore and Southeast Asia and has written 4 programming books, currently working on a 5th book.<br><br>Sau Sheong has a Bachelor’s Degree in Computer Engineering, a Master’s in Commercial Law and a Postgraduate Certificate in International Arbitration." 
+      desc: "Sau Sheong is the Deputy Chief Executive, Product & Engineering, for GovTech Singapore. Prior to GovTech, Sau Sheong was an Operating Partner, Digital for Temasek, a global investment company headquartered in Singapore and part of the AI Strategy and Solutions team.<br><br>Before that, he ran SPDigital, the digital business unit of SPGroup. He also headed IT, OT and digital transformation for the whole of SPGroup for more than 6 years. Sau Sheong was instrumental in changing SPGroup from a traditional utility company to a regional energy player.<br><br>In his 28 years of industry experience, he has built and led product engineering teams at PayPal, Yahoo and HP building various software products for enterprise businesses and consumers globally.<br><br>He was previously a co-founder of a software company and was involved in startups for more than 10 years. He is active and contributes to many technology communities in Singapore and Southeast Asia and has written 4 programming books, currently working on a 5th book.<br><br>Sau Sheong has a Bachelor’s Degree in Computer Engineering, a Master’s in Commercial Law and a Postgraduate Certificate in International Arbitration."
     - name: "Dr Andrew Ng"
       image: /assets/img/photos/andrew-ng.png
       title: "Managing General Partner at AI Fund, Founder of DeepLearning.AI, and an Adjunct Professor at Stanford University"
       desc: "Andrew Ng is the Managing General Partner at AI Fund, Founder of DeepLearning.AI, and an Adjunct Professor at Stanford University. As a pioneer both in machine learning and online education, Dr. Ng has changed countless lives through his work in AI, and has taught over 7 million people AI.  He was the founding lead of the Google Brain team, which led Google’s drive to adopt modern AI, as well as the chief scientist at Baidu.<br><br>He is also the co-founder and Chairman of Coursera – the world’s largest MOOC platform. He was also named one of the world’s 100 most influential people by TIME magazine in 2013. Dr. Ng now focuses his time primarily on his entrepreneurial ventures, looking for the best ways to accelerate responsible AI practices in the larger global economy."
-      
+
 # Presentations
 - type: Presentations
   timeslot: 11:30 AM - 12:00 PM
@@ -90,13 +90,13 @@
       image: /assets/img/photos/wong-ming-fai.png
       title: "Chief Technology Officer & Quality Service Manager, Singapore Tourism Board"
       desc:
-     
+
 - type: Presentations
   timeslot: 02:00 PM - 02:25 PM
   timeslot_metadata: 2023-07-18T14:00:00+08:00 - 2023-07-18T14:25:00+08:00
   title: "Industry Presentation"
   desc:
-     
+
 - type: Presentations
   timeslot: 02:25 PM - 02:50 PM
   timeslot_metadata: 2023-07-18T14:25:00+08:00 - 2023-07-18T14:50:00+08:00
@@ -106,8 +106,8 @@
     - name: "Mr Goh Zuo Min"
       image: /assets/img/photos/goh-zuo-min.png
       title: "Product Manager, Data Science & Artificial Intelligence Division (DSAID), GovTech"
-      desc:       
-     
+      desc:
+
 - type: Presentations
   timeslot: 02:50 PM - 03:15 PM
   timeslot_metadata: 2023-07-18T14:50:00+08:00 - 2023-07-18T13:15:00+08:00
@@ -117,16 +117,16 @@
     - name: "Dr Alvina Goh"
       image: /assets/img/photos/alvina-goh.png
       title: "Director, AI Platforms, Data Science & Artificial Intelligence Division (DSAID), GovTech"
-      desc:       
+      desc:
     - name: "Dr Watson Chua"
       image: /assets/img/photos/blank-photo.png
       title: "Lead Data Scientist, Data Science & Artificial Intelligence Division (DSAID), GovTech"
-      desc:       
+      desc:
     - name: "Dr Li Lu"
       image: /assets/img/photos/blank-photo.png
       title: "Data Scientist (II), Data Science & Artificial Intelligence Division (DSAID), GovTech"
-      desc:       
-     
+      desc:
+
 - type: Presentations
   timeslot: 03:15 PM - 03:40 PM
   timeslot_metadata: 2023-07-18T15:15:00+08:00 - 2023-07-18T15:40:00+08:00
@@ -136,8 +136,8 @@
     - name: "Dr Yap Ghim-Eng"
       image: /assets/img/photos/yap-ghim-eng.png
       title: "Director, Data Engineering, Data Science & Artificial Intelligence Division (DSAID), GovTech"
-      desc:       
-     
+      desc:
+
 - type: Presentations
   timeslot: 03:40 PM - 04:05 PM
   timeslot_metadata: 2023-07-18T15:40:00+08:00 - 2023-07-18T16:05:00+08:00
@@ -147,8 +147,8 @@
     - name: "Mr Nicholas Eayrs"
       image: /assets/img/photos/nick-eayrs.png
       title: "VP, Field Engineering for Asia-Pacific and Japan, Databricks"
-      desc:       
-       
+      desc:
+
 - type: Presentations
   timeslot: 04:05 PM - 04:30 PM
   timeslot_metadata: 2023-07-18T16:05:00+08:00 - 2023-07-18T16:30:00+08:00
@@ -158,9 +158,9 @@
     - name: "Mr Joseph Tan"
       image: /assets/img/photos/joseph-tan.png
       title: "Deputy Director, Data Science & Artificial Intelligence Division (DSAID), GovTech"
-      desc:       
+      desc:
 
-# Product/Tech Track Talks   
+# Product/Tech Track Talks
 #- type: Product/Tech Track Talks
 #  timeslot: 02:10 PM - 02:30 PM
 #  timeslot_metadata: 2023-07-18T14:10:00+08:00 - 2023-07-18T14:30:00+08:00
@@ -170,7 +170,7 @@
 #    - name: "Mr Sachin Tonk"
 #      image: /assets/img/photos/sachin-tonk.png
 #      title: "Deputy Chief Data Officer, Data Science & Artificial Intelligence Division (DSAID), GovTech"
-#      desc:      
+#      desc:
 
 # Workshops
 - type: Workshops
@@ -204,7 +204,7 @@
       image: /assets/img/photos/blank-photo.png
       title: "Product Manager, Data Science & Artificial Intelligence Division (DSAID), GovTech"
       desc:
-      
+
 - type: Workshops
   timeslot: 01:30 PM - 03:00 PM
   timeslot_metadata: 2023-07-17T13:30:00+08:00 - 2023-07-17T15:00:00+08:00
@@ -231,4 +231,5 @@
     - name: "Dr Li Lu"
       image: /assets/img/photos/blank-photo.png
       title: "Data Scientist (II), Data Science & Artificial Intelligence Division (DSAID), GovTech"
-      desc: 
+      desc:
+
