@@ -47,6 +47,7 @@ GCC+ is launching in 2023 for onboarding by government agencies. It will replace
 
 Agencies will be adopting the lift-and-shift model for timely migration from GPC to GCC+, and as subsequent step, refactor/redevelop/optimise their applications and data for GCC+.
 
-
+### Contact Us
+{% include contact-us-form.html %}
 
 
