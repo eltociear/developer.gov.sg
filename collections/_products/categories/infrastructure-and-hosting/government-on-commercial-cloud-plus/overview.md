@@ -20,8 +20,33 @@ description: >
   CC+ is a Cloud Service Provider (CSP) hosting environment compliant for hosting government agencies’ systems and data with Confidential classification.
 ---
 
+![GCC+ header banner](/assets/img/GCC+-HeaderBanner-v1.png)
 
 GCC+ is a Cloud Service Provider (CSP)-hosting environment compliant for consolidating and benefiting the hosting of government agencies’ systems and data with Confidential classification.
-It replaces the Government Private Cloud (GPC), which is reaching end of support in mid-CY2024. Compared to GPC, GCC+ offers new business and technical benefits to Agencies and Central, which are described below. 
-GCC+ is a first of its kind in-country CSP arrangement for government use, and is part of the Singapore Government Tech Stack.
-<Melvin: cannot say GCC+ similar to GCC2.0)[BT(1]
+
+It replaces the Government Private Cloud (GPC), which is reaching end of support in mid-CY2024. Compared to GPC, GCC+ offers new business and technical benefits to agencies and Central.
+
+GCC+ is the first of its kind in-country CSP arrangement for government use, and is part of the Singapore Government Tech Stack.
+
+### Key Benefits
+
+- Agencies can tap on a better range of certain cloud services
+- Better security posture vis-a-vis the technology used in GPC
+- More frequent patching and enhancements
+- Faster provisioning of resources
+- Greater agility and faster scaling to meet demand changes
+- More automation leading to faster fulfilment of service requests
+
+### Pricing
+
+Pricing for GCC+ would be similar to or lower than that for GPC.  Refer to the government intranet for pricing (accessible via GSIB laptops).
+
+### What's Next
+
+GCC+ is launching in 2023 for onboarding by government agencies. It will replace the Government Private Cloud (GPC), which will reach end-of-support in mid-2024.
+
+Agencies will be adopting the lift-and-shift model for timely migration from GPC to GCC+, and as subsequent step, refactor/redevelop/optimise their applications and data for GCC+.
+
+
+
+
