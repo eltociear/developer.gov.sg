@@ -20,7 +20,7 @@ description: >
   CC+ is a Cloud Service Provider (CSP) hosting environment compliant for hosting government agencies’ systems and data with Confidential classification.
 ---
 
-![GCC+ header banner](/assets/img/GCC+-HeaderBanner-v1.png)
+![GCC+ header banner](/assets/img/GCC-Plus-HeaderBanner-v1.png)
 
 GCC+ is a Cloud Service Provider (CSP)-hosting environment compliant for consolidating and benefiting the hosting of government agencies’ systems and data with Confidential classification.
 
