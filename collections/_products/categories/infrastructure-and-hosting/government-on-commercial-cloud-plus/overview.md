@@ -20,13 +20,13 @@ description: >
   CC+ is a Cloud Service Provider (CSP) hosting environment compliant for hosting government agencies’ systems and data with Confidential classification.
 ---
 
-![GCC+ header banner](/assets/img/GCC-Plus-HeaderBanner-v1.png)
+![GCC+ header banner](/assets/img/GCC-Plus-HeaderBanner-v2.png)
 
 GCC+ is a Cloud Service Provider (CSP)-hosting environment compliant for consolidating and benefiting the hosting of government agencies’ systems and data with Confidential classification.
 
-It replaces the Government Private Cloud (GPC), which is reaching end of support in mid-CY2024. Compared to GPC, GCC+ offers new business and technical benefits to agencies and Central.
+It replaces the Government Private Cloud (GPC), which is reaching end of support in mid-2024. Compared to GPC, GCC+ offers new business and technical benefits to agencies and Central.
 
-GCC+ is the first of its kind in-country CSP arrangement for government use, and is part of the Singapore Government Tech Stack.
+GCC+ is the first of its kind in-country CSP arrangement for government use, and is part of the [Singapore Government Tech Stack](/singapore-government-tech-stack/){:target="\_blank"}.
 
 ### Key Benefits
 
@@ -43,9 +43,11 @@ Pricing for GCC+ would be similar to or lower than that for GPC.  Refer to the g
 
 ### What's Next
 
-GCC+ is launching in 2023 for onboarding by government agencies. It will replace the Government Private Cloud (GPC), which will reach end-of-support in mid-2024.
+GCC+ is launching in 2023 for onboarding by government agencies.
 
 Agencies will be adopting the lift-and-shift model for timely migration from GPC to GCC+, and as subsequent step, refactor/redevelop/optimise their applications and data for GCC+.
+
+More details about GCC+ will be revealed soon.
 
 ### Contact Us
 {% include contact-us-form.html %}
