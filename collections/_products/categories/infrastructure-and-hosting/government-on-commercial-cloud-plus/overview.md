@@ -17,14 +17,16 @@ sgts_layer_group: [host]
 sgts_title: Gov on Commercial Cloud
 collection_group: [Singapore Government Tech Stack, What's New]
 description: >
-  CC+ is a Cloud Service Provider (CSP) hosting environment compliant for hosting government agencies’ systems and data with Confidential classification.
+  GCC+ is the Singapore Government’s cloud hosting environment for agencies’ systems and data with Confidential classification.
 ---
 
 ![GCC+ header banner](/assets/img/GCC-Plus-HeaderBanner-v2.png)
 
-GCC+ is a Cloud Service Provider (CSP)-hosting environment compliant for consolidating and benefiting the hosting of government agencies’ systems and data with Confidential classification.
+GCC+ is a Cloud Service Provider (CSP)-hosting environment compliant for consolidating the hosting of government agencies’ systems and data with Confidential classification
 
-It replaces the Government Private Cloud (GPC), which is reaching end of support in mid-2024. Compared to GPC, GCC+ offers new business and technical benefits to agencies and Central.
+It replaces the Government Private Cloud (GPC), which is reaching end of support in mid-2024. Compared to GPC, GCC+ offers new business and technical benefits to government agencies.
+
+Agencies may subscribe to GCC+ services for hosting Intranet or Internet application systems with Confidential security classification.
 
 GCC+ is the first of its kind in-country CSP arrangement for government use, and is part of the [Singapore Government Tech Stack](/singapore-government-tech-stack/){:target="\_blank"}.
 
@@ -45,7 +47,9 @@ Pricing for GCC+ would be similar to or lower than that for GPC.  Refer to the g
 
 GCC+ is launching in 2023 for onboarding by government agencies.
 
-Agencies will be adopting the lift-and-shift model for timely migration from GPC to GCC+, and as subsequent step, refactor/redevelop/optimise their applications and data for GCC+.
+Agencies should adopt the lift-and-shift approach to ensure timely migration from GPC to GCC+. Lift-and-shift refers to keeping the agency systems broadly intact, and rehosting the systems in the GCC+ environment. Such lifted-and-shifted systems should be refactored or redeveloped subsequently, to optimise them to run better on GCC+.
+
+Refactor means to redevelop only the relevant part(s) of the agency's system. Redevelopment, on the other hand, impacts the entire agency system to make it better-suited for the GCC+ environment.
 
 More details about GCC+ will be revealed soon.
 
