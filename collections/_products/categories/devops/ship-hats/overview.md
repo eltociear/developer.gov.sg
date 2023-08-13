@@ -15,6 +15,8 @@ redirect_from:
     - /products/categories/devops/hats/
     - /products/categories/devops/ship-hats/
     - /products/categories/devops/ship-hats.html
+product_homepage_links: https://portal.ship.gov.sg
+gsib_gmd: "GSIB/GMD devices only"
 ---
 
 ![SHIPHATs header banner for Singapore Government Developer Portal](/assets/img/ShipHATS-NewHeaderBanner.png)

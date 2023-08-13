@@ -19,7 +19,7 @@ collection_group: [Singapore Government Tech Stack]
 description: >
   Through GCC, government agencies can now onboard systems into commercial clouds, improving service delivery and efficiency of work processes. Adopt GCC now!
 product_homepage_links: https://cmp.gcc.gov.sg
-gsib_gmd: "GSIB and GMD devices only"
+gsib_gmd: GSIB/GMD devices only
 ---
 
 ![GCC header banner](/assets/img/GCC-NewHeaderBanner.png)
