@@ -9,6 +9,7 @@ redirect_from:
 sub_collection_render: true
 single_level_nav: true
 description: Postman is a multichannel cloud-based service for Singapore government agencies to send mass personalized messages in minutes. Find out more.
+product_homepage_links: https://postman.gov.sg/login
 ---
 
 ![Postman header banner](/assets/img/Postman-NewHeaderBanner.png)

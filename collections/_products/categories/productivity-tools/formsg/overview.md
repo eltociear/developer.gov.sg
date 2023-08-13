@@ -10,6 +10,7 @@ sub_collection_render: true
 single_level_nav: true
 collection_group: [Citizen-facing Products]
 description: FormSG helps public officers to create digital forms for citizens conveniently and securely. Find out more!
+product_homepage_links: https://form.gov.sg/login
 ---
 
 ![FormSG header banner](/assets/img/FormSG-NewHeaderBanner.png)

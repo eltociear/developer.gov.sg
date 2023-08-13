@@ -10,6 +10,7 @@ sub_collection_render: true
 single_level_nav: true
 collection_group: [Data Science and Artificial Intelligence]
 description: enCRYPT empowers public officers to implement public sector anonymisation guidelines quickly and with confidence.
+product_homepage_links: https://www.encrypt.gov.sg/signin
 ---
 
 ![enCRYPT header banner](/assets/img/enCRYPT-HeaderBanner-v1.png)

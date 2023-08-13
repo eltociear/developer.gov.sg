@@ -9,6 +9,8 @@ _data: single-level-nav
 sub_collection_render: true
 single_level_nav: true
 description: Vault is a platform where government data is consolidated, organised and made discoverable for public servants to explore, search and securely access.
+product_homepage_links: https://vault.gov.sg/login
+gsib_gmd: GSIB/GMD devices only
 ---
 
 ![Vault header banner for Singapore Government Developer Portal](/assets/img/Vault-NewHeaderBanner.png)
