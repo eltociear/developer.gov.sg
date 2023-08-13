@@ -16,6 +16,7 @@ sgts_layer_group: [services]
 sgts_title: ADEX (SDX)
 description: >
   ADEX is a secure data exchange and event streaming platform for Whole-of-Government and local businesses.
+product_homepage_links: https://adex.gov.sg/auth/login;app=sdx
 ---
 
 ![ADEX header banner for Singapore Government Developer Portal](/assets/img/Adex-NewHeaderBanner.png)
