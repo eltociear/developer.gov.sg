@@ -8,7 +8,7 @@
       <li>
         <a id="dynamic-product-homepage-button" class="sgds-button is-secondary sgds-hero-buttons is-hidden-touch product-login-button is-fullwidth" href="{{ item.product_homepage_links | default : '#!' }}" target="_blank" rel="noopener noreferrer">Login</a>
 		{% if item.gsib_gmd %}
-			item.gsib_gmd
+			{{ gsib_gmd }}
 		{%- endif -%}
       </li>
     {%- endif -%}

@@ -16,6 +16,8 @@ sgts_layer_group: [base]
 sgts_title: SEED
 collection_group: [Singapore Government Tech Stack]
 description: SEED is a Mobile Device Management (MDM) platform for the Government hosted on Government on Commercial Cloud (GCC) 2.0 environment.
+product_homepage_links: https://dashboard.seed.tech.gov.sg
+gsib_gmd: "GSIB and GMD devices only"
 ---
 
 ![SEED header banner](/assets/img/SEED-HeaderBanner-v1.png)
