@@ -45,7 +45,7 @@ Pricing for GCC+ would be similar to or lower than that for GPC.  Refer to the g
 
 ### What's Next
 
-GCC+ is launching in 2023 for onboarding by government agencies.
+GCC+ will be available in 2023 for onboarding by government agencies.
 
 Agencies should adopt the lift-and-shift approach to ensure timely migration from GPC to GCC+. Lift-and-shift refers to keeping the agency systems broadly intact, and rehosting the systems in the GCC+ environment. Such lifted-and-shifted systems should be refactored or redeveloped subsequently, to optimise them to run better on GCC+.
 
