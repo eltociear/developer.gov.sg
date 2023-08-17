@@ -20,7 +20,7 @@ description: >
   GCC+ is the Singapore Government’s cloud hosting environment for agencies’ systems and data with Confidential classification.
 ---
 
-![GCC+ header banner](/assets/img/GCC-Plus-HeaderBanner-v2.png)
+![GCC+ header banner](/assets/img/GCC-Plus-HeaderBanner-v3.png)
 
 GCC+ is a Cloud Service Provider (CSP)-hosting environment compliant for consolidating the hosting of government agencies’ systems and data with Confidential classification
 
