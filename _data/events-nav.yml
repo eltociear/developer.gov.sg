@@ -135,6 +135,18 @@
     - item_name: Overview
 
 # Stack Events
+- name: "Best Practices in Application Security [Cybersecurity Series]"
+  description: >-
+    This Meetup would cover best practices in application security including the use of SLSA and SBOM for supply chain security, good AppSec Practices, and how to build a strong foundation for a more secure future.  
+  category: STACK Meetup
+  location: 10 Pasir Panjang Rd, Level 10
+  event_date: 2023-09-14T19:00:00+08:00 - 2023-09-14T20:30:00+08:00
+  registration_end_date: 2023-09-14T14:00:00+08:00
+  recording_link:
+  registration_link: https://go.gov.sg/stackmeetup14sep2023
+  items:
+    - item_name: Overview
+    
 - name: "The Next Bound For Our Cloud Hosting Journey [Tech Infra Series]"
   description: >-
     This Meetup would cover key insights on the Government’s various implementations of cloud hosting including our next bound – implementing Government on Commercial Cloud + (GCC+).  
