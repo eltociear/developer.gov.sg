@@ -10,12 +10,11 @@ redirect_from:
     - /technologies/analytics/personalise/
     - /technologies/analytics/personalise.html
 sub_collection_render: true
-collection_group: [What's New]
 single_level_nav: true
 sgts_collection_group: [analytics]
 sgts_layer_group: [services]
 sgts_title: Personalise
-collection_group: [Singapore Government Tech Stack]
+collection_group: [Singapore Government Tech Stack, What's New]
 description: The Personalise email personalisation tool enables agencies to deliver personalised government EDMs to citizens.
 product_homepage_links: https://dashboard.personalise.gov.sg/signin
 ---
