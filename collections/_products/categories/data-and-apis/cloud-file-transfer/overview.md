@@ -11,7 +11,7 @@ redirect_from:
     - /technologies/data-and-apis/cloud-file-transfer.html
 sub_collection_render: true
 single_level_nav: true
-collection_group: [Singapore Government Tech Stack]
+collection_group: [Singapore Government Tech Stack, What's New]
 sgts_collection_group: [data_transfer]
 sgts_layer_group: [services]
 sgts_title: Cloud File Transfer
