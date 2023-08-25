@@ -7,6 +7,7 @@ redirect_from:
     - /products/categories/cybersecurity/xca/
     - /products/categories/cybersecurity/xca.html
 sub_collection_render: true
+collection_group: [What's New]
 single_level_nav: true
 description: Extended Code Analysis (XCA) is a custom code scanning SHIP-HATS 2.0 GitLab integration that detects repeated vulnerabilities in code.
 ---
