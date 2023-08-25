@@ -10,6 +10,7 @@ redirect_from:
     - /technologies/analytics/personalise/
     - /technologies/analytics/personalise.html
 sub_collection_render: true
+collection_group: [What's New]
 single_level_nav: true
 sgts_collection_group: [analytics]
 sgts_layer_group: [services]
